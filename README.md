@@ -19,5 +19,6 @@ function yo() {
   console.log("Hello!");
 }
 ```
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f48d9d8a-3f54-4b16-af25-4b5b64a78296" />
+<img width="1296" height="1936" alt="image" src="https://github.com/user-attachments/assets/91127903-6ed5-4c6a-9102-78c7268de704" />
+
 
